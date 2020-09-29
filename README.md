@@ -1,2 +1,1 @@
-# hello-world-
-repository
+Console.WriteLine("Hello World!");
